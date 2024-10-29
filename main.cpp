@@ -1,3 +1,6 @@
+//This program is used for measuring the days of the week. It can be used to find the next day, previous day, and the day after adding a certain number of days to the current day. You can set it to any day of the week and it will tell you what day it is.
+
+
 #include <iostream>
 #include "dayType.H"
 
